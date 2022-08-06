@@ -15,5 +15,39 @@
       "strength": 5,
       "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
-  }
+  },
+  {
+    "description": "Eliminatórias Copa o Mundo 2022",
+    "local": {
+      "name": "Estádio Centenário",
+      "image": "TODO"
+    },
+    "homeTeam": {
+      "name": "Estados Unidos",
+      "strength": 2,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/us.png"
+    },
+    "awayTeam": {
+      "name": "Uruguay",
+      "strength": 4,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    }
+  },
+  {
+    "description": "Eliminatórias Copa o Mundo 2022",
+    "local": {
+      "name": "Maracanã",
+      "image": "TODO"
+    },
+    "homeTeam": {
+      "name": "Brasil",
+      "strength": 5,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "awayTeam": {
+      "name": "Uruguay",
+      "strength": 4,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    }
+  },
 ]
