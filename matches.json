@@ -3,7 +3,7 @@
     "description": "Eliminatórias Copa o Mundo 2022",
     "local": {
       "name": "Maracanã",
-      "image": "TODO"
+      "image": "https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/maracana_novo_gramado.jpeg"
     },
     "homeTeam": {
       "name": "Brasil",
@@ -20,7 +20,7 @@
     "description": "Eliminatórias Copa o Mundo 2022",
     "local": {
       "name": "Estádio Centenário",
-      "image": "TODO"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estadio_Centenario_2021.jpg"
     },
     "homeTeam": {
       "name": "Estados Unidos",
@@ -37,7 +37,7 @@
     "description": "Eliminatórias Copa o Mundo 2022",
     "local": {
       "name": "Maracanã",
-      "image": "TODO"
+      "image": "https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/maracana_novo_gramado.jpeg"
     },
     "homeTeam": {
       "name": "Brasil",
